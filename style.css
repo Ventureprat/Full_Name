@@ -28,7 +28,7 @@
   
   
   
-  #t1,#t2,#t3,#t4,#p1{
+  #t1,#t2,#t3,#t4{
       background-color: #141413ce;
       padding:5px;
       text-align:left;
@@ -49,7 +49,7 @@
       padding:5px;
       position:relative;
       left:30px;
-      color:rgba(23, 253, 2, 0.993);
+      color:rgba(253, 207, 2, 0.993);
       font-family:emoji;
       font-size:larger;
       font-weight:bold;
@@ -64,6 +64,30 @@
       width:205px;
       height:40px;
       overflow:hidden;
-  
+      position: relative;
+      top:20px;
     }
-  
+
+    
+    #c1{
+      background:#f30f0fa3;
+      width:55px;
+      margin:20px;
+      
+      position:absolute;
+      left:122px;
+      top:320px;
+      color:bisque;
+      font-size:x-small;
+      font-family:cursive;
+      border-radius: 5px;
+
+     
+    }
+
+    .l1{
+      position:relative;
+      top:23px;
+    }
+
+
