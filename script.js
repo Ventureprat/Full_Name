@@ -37,7 +37,7 @@ function cl() {
      document.getElementById("t2").value=" ";
      document.getElementById("t3").value=" ";
      document.getElementById("t4").value=" ";
-     
+     location.reload();
     }
      
 }
